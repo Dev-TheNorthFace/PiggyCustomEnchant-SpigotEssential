@@ -1,0 +1,20 @@
+rarity-colors:
+  common: yellow
+  uncommon: blue
+  rare: gold
+  mythic: light_purple
+enchants:
+  position: "name"
+  roman-numerals: true
+  books: true
+disabled-enchants: []
+per-world-disabled-enchants:
+  NoJetpackWorld:
+    - "jetpack"
+remote-disable: true
+world-damage:
+  blaze: true
+  bombardment: true
+  lightning: true
+  missile: true
+  self-destruct: true
